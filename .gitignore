@@ -1,0 +1,16 @@
+# Vagrant files
+.vagrant/
+
+# Swarm join token (sensitive/temporary information)
+worker_token.txt
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VirtualBox files
+*.vbox
+*.vbox-prev
